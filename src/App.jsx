@@ -7,7 +7,7 @@ import BookDetails from "./pages/BookDetails";
 import AddBook from "./pages/AddBook";
 import NotFound from "./pages/NotFound";
 
-// Routes control navigation between all pages of the Readora library.
+// Application routes connect the Home, Browse, Details, Add Book and 404 pages.
 
 function App() {
   const location = useLocation();
