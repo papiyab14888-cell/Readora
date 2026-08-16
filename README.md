@@ -43,3 +43,7 @@ view detailed information, and add new books to the library.
 ## 📱 Responsive Design
 
 The application provides a clean experience across desktop, tablet and mobile screens.
+## 🧭 Navigation
+
+The application includes routes for Home, Browse Books, Book Details,
+Add Book, category filtering and the custom 404 page.
