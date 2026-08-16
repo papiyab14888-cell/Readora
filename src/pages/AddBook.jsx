@@ -26,8 +26,7 @@ function AddBook() {
       [name]: value
     });
   };
-
-  // Validate required fields before adding a new book.
+// Validate required fields and rating before submitting a new book.
   const validate = () => {
     const newErrors = {};
 
