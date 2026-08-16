@@ -36,14 +36,28 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-## 🔍 Application Functionality
+## ▶️ How to Run the Application
 
-Users can search books by title or author, filter books by category,
-view detailed information, and add new books to the library.
-## 📱 Responsive Design
+### Step 1: Clone the Repository
 
-The application provides a clean experience across desktop, tablet and mobile screens.
-## 🧭 Navigation
+Open a terminal and run:
 
-The application includes routes for Home, Browse Books, Book Details,
-Add Book, category filtering and the custom 404 page.
+git clone https://github.com/papiyab14888-cell/Readora.git
+
+### Step 2: Open the Project Folder
+
+cd Readora
+
+### Step 3: Install Dependencies
+
+npm install
+
+### Step 4: Start the Development Server
+
+npm run dev
+
+### Step 5: Open the Application
+
+After running `npm run dev`, Vite will display a local URL in the terminal.
+
+Open that URL in your web browser to use the Readora Online Library System.
