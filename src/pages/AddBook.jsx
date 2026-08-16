@@ -80,7 +80,7 @@ function AddBook() {
         "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500"
     };
 
-    // Add the new book to Redux and redirect to Browse Books.
+    // Save the new book in Redux before navigating to Browse Books.
     dispatch(addBook(newBook));
 
     navigate("/books");
