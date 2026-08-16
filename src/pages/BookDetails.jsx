@@ -5,7 +5,7 @@ function BookDetails() {
   const { id } = useParams();
   const books = useSelector((state) => state.books);
 
-  // Find the selected book using the dynamic URL id.
+  // Find the selected book using the ID from the URL.
   const book = books.find((item) => item.id === Number(id));
 
   if (!book) {
