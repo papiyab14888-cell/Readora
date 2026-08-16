@@ -40,3 +40,6 @@ src/
 
 Users can search books by title or author, filter books by category,
 view detailed information, and add new books to the library.
+## 📱 Responsive Design
+
+The application provides a clean experience across desktop, tablet and mobile screens.
