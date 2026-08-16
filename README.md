@@ -36,3 +36,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+## 🔍 Application Functionality
+
+Users can search books by title or author, filter books by category,
+view detailed information, and add new books to the library.
