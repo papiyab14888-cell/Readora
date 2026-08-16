@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { books as initialBooks } from "../data/books";
 
-// Redux slice for managing the Readora book collection.
+// Redux slice that manages the Readora library collection.
 const bookSlice = createSlice({
   name: "books",
 
