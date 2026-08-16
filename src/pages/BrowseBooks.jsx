@@ -18,7 +18,7 @@ function BrowseBooks() {
     "Mystery"
   ];
 
-  // Filter books based on the selected category and search query.
+  // Filter the library using category selection and title or author search.
   const filteredBooks = books.filter((book) => {
     const matchesCategory =
       !category ||
