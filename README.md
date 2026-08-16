@@ -1,0 +1,38 @@
+# 📚 Readora — Online Library System
+
+Readora is a modern and responsive online library system built with React and Vite.
+
+## ✨ Features
+
+- Responsive Readora home page
+- Browse books by category
+- Search books by title or author
+- Dynamic category routes
+- Individual book details
+- Add new books
+- Form validation
+- Redux state management
+- Custom 404 page
+- Responsive and modern UI
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- React Router
+- Redux Toolkit
+- React Redux
+- JavaScript
+- CSS
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+├── data/
+├── pages/
+├── redux/
+├── App.jsx
+├── main.jsx
+└── index.css
